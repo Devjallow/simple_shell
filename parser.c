@@ -2,7 +2,9 @@
 /**
  * parsesetsvar - parse set shell vars, returns new buf after var setting
  * @buf: buffer
- * Return: string
+ *
+ * Description:
+ * Return: pointer to character - string
  */
 char *parsesetsvar(char *buf)
 {

@@ -3,7 +3,9 @@
 
 /**
  * _getpid - gets the pid of a currently running process
- * Return: string of the pid
+ *
+ * Description:
+ * Return: pointer to character of the pid
  */
 char *_getpid()
 {

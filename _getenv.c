@@ -1,8 +1,9 @@
 #include "shell.h"
 /**
  * getallenv - get all environment
+ * 
+ * Description:
  * Return: environment
- *
  */
 char **getallenv()
 {

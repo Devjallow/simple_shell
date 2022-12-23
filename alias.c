@@ -2,8 +2,9 @@
 #include "alias.h"
 /**
  * getalist - static wrapper getalias list
+ * 
+ * Description:
  * Return: address alist
- *
  */
 AliasData **getalist()
 {

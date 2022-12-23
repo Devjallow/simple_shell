@@ -8,6 +8,8 @@
  * @val: value for the alias
  * @next: pointer to next node
  *
+ * Description: defines a struct of 2 pointers to character, and a pointer to
+ * the same struct
  */
 
 typedef struct AliasData

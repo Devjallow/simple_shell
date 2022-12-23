@@ -2,6 +2,8 @@
 /**
  * help - help builtin command
  * @cmd: the command line inserted
+ *
+ * Description:
  * Return: 0 if sucess (always)
  */
 int help(char *cmd)

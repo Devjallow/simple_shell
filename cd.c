@@ -2,7 +2,9 @@
 /**
  *_cd - change directory builtin
  * @av: argument to work with
- * Return: int
+ *
+ * Description:
+ * Return: an integer
  */
 int _cd(char *av[])
 {
